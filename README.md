@@ -1,5 +1,8 @@
 # 12 SQL: Employee Tracker
 
+## Example
+![A screenshot of my assignment](./assets/Employee%20Tracker.png)
+
 ## User Story
 AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
@@ -24,3 +27,5 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 
+## Resources 
+Used Section 12, activities 11 & 28 as reference for this homework assignment from our curriculum. 

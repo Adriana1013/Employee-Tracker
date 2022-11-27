@@ -4,8 +4,6 @@ VALUES ("Marketing"),
        ("HR"),
        ("Accounting");
 
-SELECT * FROM departments;
-
 INSERT INTO roles (title, salary, department_id)
 VALUES ("Marketing Coordinator", 60000, 1),
        ("Art Director", 170000, 2),
@@ -16,8 +14,6 @@ VALUES ("Marketing Coordinator", 60000, 1),
        ("Human Resources Officer", 145000, 3),
        ("Benefits Admin", 80000, 3);
 
-SELECT * FROM roles;
-
 INSERT INTO employees (first_name, last_name, role_id, manager_id)
 VALUES ("Elle", "Woods", 7, null),
        ("Regina", "George", 6, null),
@@ -27,5 +23,3 @@ VALUES ("Elle", "Woods", 7, null),
        ("Harry", "Styles", 5, null),
        ("Audrey", "Hepburn", 2, null),
        ("Jackie", "Kennedy", 3, null);
-
-SELECT * FROM employees; 
