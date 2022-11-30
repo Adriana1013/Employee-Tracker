@@ -3,8 +3,18 @@
 ## Example
 ![A screenshot of my assignment](./assets/Employee%20Tracker.png)
 
+## Github
+https://github.com/Adriana1013/Employee-Tracker
+
 ## Walkthrough Video
+This video is the updated & final version with ability to add a new department:
+https://drive.google.com/file/d/1NwphHulFFxVG5uP9M20TcS4d_uNYXokv/view?usp=sharing 
+
+
+This is the original video:
 https://drive.google.com/file/d/1sodlGKall-ycrALt9EmJds1BVvXVFUv3/view?usp=sharing
+
+
 
 ## User Story
 AS A business owner
