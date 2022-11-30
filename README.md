@@ -3,6 +3,9 @@
 ## Example
 ![A screenshot of my assignment](./assets/Employee%20Tracker.png)
 
+## Walkthrough Video
+https://drive.google.com/file/d/1sodlGKall-ycrALt9EmJds1BVvXVFUv3/view?usp=sharing
+
 ## User Story
 AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
@@ -29,3 +32,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Resources 
 Used Section 12, activities 11 & 28 as reference for this homework assignment from our curriculum. 
+
+# Questions
+  -You can view my Github by searching: Adriana1013
+  
+  -You can reach me via email: avillegas@gmail.com

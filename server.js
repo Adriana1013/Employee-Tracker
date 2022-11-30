@@ -88,9 +88,8 @@ const addDepartment = () => {
                 name: 'name'
             },
         ])
-
         .then((res) => {
-            var query = `INSERT INTO departments (name) VALUES ('${res.name}')`
+            var query = `INSERT INTO departments (dept_name) VALUES ('${res.name}')`
             db.query(query), (err, result) => {
                 console.log(result)                
             }
